@@ -1,7 +1,4 @@
-
-Twin sai tech
-
-how this project help :
+How this project help :
   In Cyber Security The Most Attack Was been Happend By Social Engineering. The Attacker was Choose the Social Media to Collect the users information And attack It.
   So We can make the tool to identify the Attacker on Instagram
 
